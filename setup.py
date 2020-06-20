@@ -7,6 +7,7 @@ setuptools.setup(
     name="space-remover-teeber", 
     version="0.0.1",
     author="teeber",
+    author_email="oldmacdonald114@yahoo.com",
     description="A program to remove spaces from a text file",
     long_description=long_description,
     long_description_content_type="text/markdown",
